@@ -1,0 +1,25 @@
+{
+  "name": "agenda-dayz",
+  "version": "1.0.0",
+  "description": "Criar um sistema de Agenda, para auxiliar na Controle de vendas de itens feitas dentro do game Dayz.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next day"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VictorBudal/AgendaDayz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VictorBudal/AgendaDayz/issues"
+  },
+  "homepage": "https://github.com/VictorBudal/AgendaDayz#readme",
+  "dependencies": {
+    "next": "^11.1.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
